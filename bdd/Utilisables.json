@@ -1,0 +1,70 @@
+[
+	{
+		"id": "U01",
+		"nom": "Potion de Sante",
+		"description": "Une potion à base d'aloe verra qui vous soignera de 20 points de vie.",
+		"icone" : [1,20],
+		"animation" : "None",
+		"img" : null,
+		"prix" : 4,
+		"effet" : "Soigne 20 PV"
+	},
+
+	{
+		"id": "U02", 
+		"nom": "Boeuf Bourguignon", 
+		"description": "Un met légendaire qui vous requinquera !",
+		"icone" : [3,16],
+		"animation" : "None",
+		"img" : null,
+		"prix" : 8,
+		"effet" : "Guérison totale"
+	},
+
+ 	{
+		"id": "U03",
+		"nom": "Potion de Mana",
+		"description": "Surement un placebo, mais vous aurez l'impression d'avoir 20 points de mana supplémentaire",		
+		"icone" : [7,20],
+		"animation" : "None",
+		"img" : null,
+		"prix" : 4,
+		"effet" : "Rend 20 Mana"
+	},
+
+	{
+		"id": "U04",
+		"nom": "Potion de Force",
+		"description": "Une potion magique dont seul un druide gaulois connaît la recette.",		
+		"icone" : [2,20],
+		"animation" : "None",
+		"img" : null,
+		"prix" : 10,
+		"effet" : "Augmente l'attaque de 20"
+	},
+
+	{
+		"id": "U05",
+		"nom": "De de Chance",
+		"description": "La légende raconte qu'il s'agit de la réalisation d'un mage accro aux jeux.",
+		"icone" : [13,5],
+		"animation" : "None",
+		"img" : null,
+		"prix" : 15,
+		"effet": "Personne ne le sait"
+	},
+
+	{
+		"id": "U06",
+		"nom": "Potion de Defense",
+		"description": "Un petit médicament bleu qui vous rendra dur comme la pierre",		
+		"icone" : [0,21],
+		"animation" : "None",
+		"img" : null,
+		"prix" : 10,
+		"effet":"Ajoute 20 à la défense"
+	}
+
+
+
+]

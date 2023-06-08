@@ -1,0 +1,32 @@
+[
+	{
+		"id": "F01",
+		"nom": "chateau",
+		"cheminImg" : "./elements/images/fonds/fondsFinaux/chateau.png",
+		"img" : null
+
+	},
+
+	{
+		"id": "F02", 
+		"nom": "salleTrone",
+		"cheminImg":"./elements/images/fonds/fondsFinaux/salleTrone.png",
+		"img" : null
+	},
+
+	{
+		"id": "F03", 
+		"nom": "cristal",
+		"cheminImg":"./elements/images/fonds/fondsFinaux/cristal.png",
+		"img" : null
+	},
+
+	{
+		"id": "F04", 
+		"nom": "mine",
+		"cheminImg":"./elements/images/fonds/fondsFinaux/mine.png",
+		"img" : null
+	}
+
+
+]

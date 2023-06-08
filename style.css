@@ -1,0 +1,57 @@
+* 
+{
+padding: 0; margin: 0;
+}
+
+canvas 
+{
+	background: #4d4d4d; display: block; margin: 0 auto;
+}
+
+
+body
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+#part3
+{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+#part1
+{
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+.tableEnemi {
+    border: solid 1px #DDEEEE;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 10px Arial, sans-serif;
+}
+.tableEnemi thead th {
+    background-color: grey;
+    border: solid 1px #DDEEEE;
+    color: #336B6B;
+    padding: 5px;
+    text-align: left;
+    text-shadow: 1px 1px 1px #fff;
+}
+.tableEnemi tbody td {
+    border: solid 1px #DDEEEE;
+    color: #333;
+    padding: 10px;
+    text-shadow: 1px 1px 1px #fff;
+}

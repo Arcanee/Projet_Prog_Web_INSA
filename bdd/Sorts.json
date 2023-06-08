@@ -1,0 +1,34 @@
+[
+	{
+		"id" : "S01", 
+		"nom" : "Trait de feu",
+		"description" : "Un sort simple projetant des flammes sur l'ennemi",
+		"icone" : [0,4], 
+		"animation" : "./elements/images/animations/Fire2.png", 
+		"cout" : 10, 
+		"degats": 100,
+		"img" : null
+	},
+
+	{
+		"id" : "S02",
+		"nom" : "Stalagmite", 
+		"description" : "Un pic de glace sort du sol et transperse votre ennemi",
+		"icone" : [1,4], 
+		"animation" : "./elements/images/animations/Ice2.png", 
+		"cout" : 10, 
+		"degats" : 100,
+		"img" : null
+	},
+
+	{
+		"id" : "S03", 
+		"nom" : "Météore", 
+		"description" : "Même à l'interieur d'une pièce invoquez une énorme masse rocheuse tombant du ciel",
+		"icone" : [2,4],
+		"animation" : "./elements/images/animations/Meteor.png",
+		"cout" : 20, 
+		"degats": 500,
+		"img" : null
+	}
+]

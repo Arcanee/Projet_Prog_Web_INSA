@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="shortcut icon" href="./elements/images/system/MapName_Circle.png">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="style.css">
+	<title>Donjon Rusher</title>
+</head>
+<body>
+	<div id="part1">
+		<table class="tableEnemi">
+		    <thead>
+		        <tr>
+		            <th>Monstre</th>
+		            <th>Stats</th>
+		        </tr>
+		    </thead>
+		    <tbody>
+		        <tr>
+		            <td>Nom</td>
+		            <td id="nomMonstre">-</td>
+		        </tr>
+		        <tr>
+		            <td>Points de vie</td>
+		            <td id="pvMonstre">-</td>
+		        </tr>
+		        <tr>
+		            <td>Attaque</td>
+		            <td id="attaqueMonstre">-</td>
+		        </tr>
+		        <tr>
+		            <td>Défense</td>
+		            <td id="defMonstre">-</td>
+		        </tr>
+		        <tr>
+		            <td>Esquive</td>
+		            <td id="esquiveMonstre">-</td>
+		        </tr>
+		        <tr>
+		            <td>Critique</td>
+		            <td id="critiqueMonstre">-</td>
+		        </tr>
+		    </tbody>
+		</table>
+		<div id="part4">
+			<table id="inventaire", border = "2">
+				<tr id="ligne">
+					<td id = "nom" bgcolor="Grey" width='80px' height = "50px"> Nom</td>
+					<td id = "quantite" bgcolor="Grey" width='50px' height = "50px" > Qté</td>
+					<td id = "effet" bgcolor="Grey" width='150px' height = "50px" > Effet</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<div id="part2">
+		<canvas id="myCanvas" width="1080" height="720"></canvas>
+		<script type="module" src="jeu.js"></script>		
+	</div>
+	<div id="part3">
+		<div id=minmap>
+			<table id="map"> 
+			</table>
+		</div>
+		<table class="tableEnemi">
+		    <thead>
+		        <tr>
+		            <th>Personnage</th>
+		            <th>Stats</th>
+		        </tr>
+		    </thead>
+		    <tbody>
+		        <tr>
+		            <td>Nom</td>
+		            <td id="nomPerso">-</td>
+		        </tr>
+		        <tr>
+		            <td>Points de vie</td>
+		            <td id="pvPerso">-</td>
+		        </tr>
+		        <tr>
+		            <td>Attaque</td>
+		            <td id="attaquePerso">-</td>
+		        </tr>
+		        <tr>
+		            <td>Défense</td>
+		            <td id="defPerso">-</td>
+		        </tr>
+		        <tr>
+		            <td>Esquive</td>
+		            <td id="esquivePerso">-</td>
+		        </tr>
+		        <tr>
+		            <td>Critique</td>
+		            <td id="critiquePerso">-</td>
+		        </tr>
+		       	<tr>
+		            <td>Mana</td>
+		            <td id="manaPerso">-</td>
+		        </tr>
+		       	<tr>
+		            <td>Pièces</td>
+		            <td id="piecesPerso">-</td>
+		        </tr>
+		    </tbody>
+		</table>
+	</div>
+
+</body>
+</html>

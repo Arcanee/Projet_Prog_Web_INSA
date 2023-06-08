@@ -1,0 +1,25 @@
+[
+
+	{
+		"id" : "A01", 
+		"nom" : "Pourpoint en fourrure", 
+		"description" : "Protège du chaud et potentiellement des coups.",	 
+		"icone" : [7,8], 
+		"type" : "torse",
+		"resistance" : 3,
+		"img" : null
+	}, 
+
+	{
+		"id" : "A02", 
+		"nom" : "Beau chapeau", 
+		"description" : "Peut proteger la tête sur un malentendu.",		 
+		"icone" : [2,8],  
+		"type" : "tête",
+		"resistance" : 1,
+		"img" : null
+
+	}
+
+
+]

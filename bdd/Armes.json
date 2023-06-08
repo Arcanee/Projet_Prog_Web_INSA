@@ -1,0 +1,27 @@
+[
+	{
+		"id" : "O01",
+		"nom" : "Poings", 
+		"description" : "Rien de spécial, tout est dans le titre.",
+		"icone" : [13,4],
+		"animation" : "./elements/images/animations/Hit1.png",
+		"type" : "arme 2M",
+		"degats" : 5,
+		"img" : null
+
+	},
+
+	{
+		"id" : "O02", 
+		"nom" : "Epée rouillée", 
+		"description" : "Un bout de bois serait encore mieux.",
+		"icone" : [1,6], 
+		"animation" : "./elements/images/animations/Slash1.png",
+		"type" : "arme 1M",
+		"degats" : 7,
+		"img" : null
+		
+	}
+
+
+]

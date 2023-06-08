@@ -1,0 +1,142 @@
+[
+	{
+		"id" : "M01",
+		"nom" : "Poulet mutant", 
+		"attaque" : 2, 
+		"critique" : 5, 
+		"esquive" : 5,
+		"defense" : 5,
+		"pv" : 50,
+		"experience" : 100,
+		"cheminImg": "./elements/images/ennemies/Poulet.png",
+		"musique" : "./elements/son/musiques/combat/Battle1.m4a",
+		"img" : null
+	},
+
+	{
+		"id" : "M02",
+		"nom" : "Diablotin", 
+		"attaque" : 5,
+		"critique" : 5,
+		"esquive" : 10, 
+		"defense" : 0,
+		"pv" : 50,
+		"experience" : 150, 
+		"cheminImg":  "./elements/images/ennemies/Imp.png", 
+		"musique" : "./elements/son/musiques/combat/Battle1.m4a",
+		"img" : null
+	},
+
+	{
+		"id" : "M03",
+		"nom" : "Mimique", 
+		"attaque" : 7,
+		"critique" : 15,
+		"esquive" : 0, 
+		"defense" : 10,
+		"pv" : 75,
+		"experience" : 200, 
+		"cheminImg":  "./elements/images/ennemies/Mimic.png", 
+		"musique" : "./elements/son/musiques/combat/Battle1.m4a",
+		"img" : null
+	},
+
+	{
+		"id" : "M04",
+		"nom" : "Ragnard", 
+		"attaque" : 8,
+		"critique" : 5,
+		"esquive" : 25, 
+		"defense" : 5,
+		"pv" : 50,
+		"experience" : 150, 
+		"cheminImg":  "./elements/images/ennemies/Rat.png", 
+		"musique" : "./elements/son/musiques/combat/Battle1.m4a",
+		"img" : null
+	},
+
+	{
+		"id" : "M05",
+		"nom" : "Esprit de terre", 
+		"attaque" : 5,
+		"critique" : 5,
+		"esquive" : 0, 
+		"defense" : 11,
+		"pv" : 200,
+		"experience" : 200, 
+		"cheminImg":  "./elements/images/ennemies/Earthspirit.png", 
+		"musique" : "./elements/son/musiques/combat/Battle1.m4a",
+		"img" : null
+	},
+
+	{
+		"id" : "M06",
+		"nom" : "Esprit de feu", 
+		"attaque" : 11,
+		"critique" : 5,
+		"esquive" : 5, 
+		"defense" : 5,
+		"pv" : 100,
+		"experience" : 200, 
+		"cheminImg":  "./elements/images/ennemies/FireSpirit.png", 
+		"musique" : "./elements/son/musiques/combat/Battle1.m4a",
+		"img" : null
+	},
+
+	{
+		"id" : "M07",
+		"nom" : "Aventurier perdu", 
+		"attaque" : 15,
+		"critique" : 5,
+		"esquive" : 15, 
+		"defense" : 13,
+		"pv" : 150,
+		"experience" : 250, 
+		"cheminImg":  "./elements/images/ennemies/Aventurier.png", 
+		"musique" : "./elements/son/musiques/combat/Battle1.m4a",
+		"img" : null
+	},
+
+	{
+		"id" : "M08",
+		"nom" : "Tengu", 
+		"attaque" : 17,
+		"critique" : 10,
+		"esquive" : 10, 
+		"defense" : 14,
+		"pv" : 400,
+		"experience" : 500, 
+		"cheminImg":  "./elements/images/ennemies/Tengu.png", 
+		"musique" : "./elements/son/musiques/combat/CT_Hayatemaru.m4a",
+		"img" : null
+	},
+	
+	{
+		"id" : "M09",
+		"nom" : "Samouraï d'antan", 
+		"attaque" : 18,
+		"critique" : 15,
+		"esquive" : 5, 
+		"defense" : 16,
+		"pv" : 200,
+		"experience" : 300, 
+		"cheminImg":  "./elements/images/ennemies/Samurai.png", 
+		"musique" : "./elements/son/musiques/combat/CT_Hayatemaru.m4a",
+		"img" : null
+	},
+	
+	{
+		"id" : "M10",
+		"nom" : "Golem de fer", 
+		"attaque" : 20,
+		"critique" : 0,
+		"esquive" : 5, 
+		"defense" : 20,
+		"pv" : 500,
+		"experience" : 700, 
+		"cheminImg":  "./elements/images/ennemies/Irongiant.png", 
+		"musique" : "./elements/son/musiques/combat/Battle3.m4a",
+		"img" : null
+	}
+
+]
