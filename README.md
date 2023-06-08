@@ -23,8 +23,8 @@ Un étage comporte au moins :
 - Ouvrir le coffre = C
 - Naviguer dans les menus / sur la map = Flèches
 
-## Auteur
+## Auteurs
 
-Aymeric Shinawi
+Aymeric Shinawi, Loïc Thomas, Léo Vendeville, Gabriel Corella
 3 MIC - INSA TOULOUSE
-2022
+2021
